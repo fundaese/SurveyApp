@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">SurveyApp</string>
+    <string name="name">Ad Soyad</string>
+    <string name="register">Giriş Yap</string>
+    <string name="age">Age</string>
+    <string name="city">City</string>
+    <string name="country">Country</string>
+    <string name="email">Email</string>
+    <string name="phone">Phone</string>
+    <string name="save">Kaydet</string>
+    <string name="home">Ana sayfaya dön</string>
+    <string name="et_answer">Cevabınızı girin</string>
+    <string name="question1">En çok kullandığınız sosyal medya hangisidir?</string>
+    <string name="question2">Ne tür filmler daha çok ilginizi çeker?</string>
+    <string name="question3">Sizin için önemli olan para mı boş vakit mi?</string>
+    <string name="question4">Hangi platformu kullanmayı tercih edersiniz?</string>
+    <string name="rb_answer1">Threads</string>
+    <string name="rb_answer2">Twitter</string>
+    <string name="personalInfo">Kişisel Bilgiler</string>
+    <string name="surveyInfo">Anket Cevapları</string>
+    <string name="info">Bilgi</string>
+
+</resources>
